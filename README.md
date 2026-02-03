@@ -9,7 +9,8 @@ O foco do projeto é transformar dados brutos em **insights claros**, utilizando
 ## Acesse a aplicação :D
 
 🔗 **Aplicação online (Streamlit):**  
-https://imersao-dados-python-alura-on.streamlit.app
+https://imersao-dados-python-alura-2026-ana.streamlit.app/
+
 
 ---
 
