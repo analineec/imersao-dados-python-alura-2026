@@ -1,4 +1,4 @@
-# 📊 Imersão de Dados com Python — Alura
+# 📊 Imersão de Dados com Python - Alura
 
 Este projeto foi desenvolvido durante a **Imersão de Dados com Python da Alura**, com o objetivo de explorar, analisar e visualizar dados utilizando Python, boas práticas de análise e a construção de uma aplicação interativa com **Streamlit**.
 
@@ -6,15 +6,16 @@ O foco do projeto é transformar dados brutos em **insights claros**, utilizando
 
 ---
 
-## Acesse a aplicação :D
+## Acesse a aplicação
 
-🔗 **Aplicação online (Streamlit):**  
+ **Aplicação online (Streamlit):**  
+
 https://imersao-dados-python-alura-2026-ana.streamlit.app/
 
 
 ---
 
-## 🧠 O que foi desenvolvido
+##  O que foi desenvolvido
 
 Ao longo do projeto, foram trabalhados conceitos fundamentais de **análise de dados**, incluindo:
 
@@ -28,7 +29,7 @@ A aplicação permite explorar os dados de forma visual e dinâmica, facilitando
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - **Python**
 - **Pandas**
@@ -40,7 +41,7 @@ A aplicação permite explorar os dados de forma visual e dinâmica, facilitando
 
 ---
 
-## 📁 Estrutura do projeto
+##  Estrutura do projeto
 
 ```text
 ├── data/               # Conjunto de dados utilizados
