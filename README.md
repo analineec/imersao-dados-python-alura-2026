@@ -1,51 +1,37 @@
-# 📊 Imersão de Dados com Python - Alura
+# Imersão de Dados com Python – Alura
 
-Este projeto foi desenvolvido durante a **Imersão de Dados com Python da Alura**, com o objetivo de explorar, analisar e visualizar dados utilizando Python, boas práticas de análise e a construção de uma aplicação interativa com **Streamlit**.
+Projeto desenvolvido durante a **Imersão de Dados com Python da Alura**, colocando em prática os conhecimentos adquiridos ao longo das aulas.
 
-O foco do projeto é transformar dados brutos em **insights claros**, utilizando visualizações e uma interface simples para facilitar a interpretação das informações.
-
----
+A ideia foi trabalhar com dados usando Python, desde a limpeza e análise até a criação de gráficos e de uma aplicação interativa com Streamlit.
 
 ## Acesse a aplicação
 
- **Aplicação online (Streamlit):**  
+[**Visualizar projeto online**](https://imersao-dados-python-alura-2026-ana.streamlit.app/)
 
-https://imersao-dados-python-alura-2026-ana.streamlit.app/
+## O que foi feito
 
+- Limpeza e organização dos dados com Pandas;
+- Análise exploratória dos dados;
+- Criação de gráficos para visualizar os resultados;
+- Identificação de informações relevantes nos dados;
+- Desenvolvimento de um dashboard interativo com Streamlit.
 
----
+## Tecnologias utilizadas
 
-##  O que foi desenvolvido
+- Python
+- Pandas e NumPy
+- Matplotlib e Seaborn
+- Streamlit
+- Jupyter Notebook
 
-Ao longo do projeto, foram trabalhados conceitos fundamentais de **análise de dados**, incluindo:
-
-- Limpeza e tratamento de dados
-- Análise exploratória (EDA)
-- Visualização de dados
-- Geração de insights a partir dos dados
-- Criação de uma aplicação interativa com Streamlit
-
-A aplicação permite explorar os dados de forma visual e dinâmica, facilitando a compreensão mesmo para quem não tem familiaridade técnica.
-
----
-
-##  Tecnologias utilizadas
-
-- **Python**
-- **Pandas**
-- **NumPy**
-- **Matplotlib**
-- **Seaborn**
-- **Streamlit**
-- **Jupyter Notebook**
-
----
-
-##  Estrutura do projeto
+## Estrutura do projeto
 
 ```text
-├── data/               # Conjunto de dados utilizados
-├── notebooks/          # Análises exploratórias e estudos
-├── app.py              # Aplicação principal em Streamlit
-├── requirements.txt    # Dependências do projeto
+├── data/               # Dados utilizados no projeto
+├── notebooks/          # Notebooks com as análises
+├── app.py              # Aplicação Streamlit
+├── requirements.txt    # Bibliotecas utilizadas
 └── README.md           # Documentação do projeto
+```
+
+Esse projeto foi uma oportunidade de praticar análise de dados com Python e conhecer melhor o processo de transformar dados em informações que podem ser exploradas visualmente.
